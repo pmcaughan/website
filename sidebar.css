@@ -1,0 +1,9 @@
+.sidebar {
+	width: 20vw;
+	background-color: #F1FAEE;
+	float:right;
+	border-style: solid;
+	position: fixed;
+	right: 5vw;
+	border-radius: 30px 10px;
+}
